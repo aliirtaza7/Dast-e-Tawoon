@@ -1,4 +1,5 @@
 # NGO and Needy Person Help System
+## Author: Ali Irtaza
 
 This project is a desktop application developed using **Qt** (C++) to create a help network where two types of users interact: **NGO** and **Needy Person**. The system allows Needy Persons to send emergency help requests to NGOs, who can then view and respond to these requests. The communication between clients and the server is done using **TCP/IP networking**, with server-side data storage handled by **SQLite**.
 
